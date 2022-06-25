@@ -1,6 +1,12 @@
 package com.rici.StudentSystem.repository;
 
-public interface StudentRepository {
+import com.rici.StudentSystem.model.Student;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
 
-    //tu pokracujeme 9:13 video
+@Repository
+public interface StudentRepository extends JpaRepository<Student, Integer> {
+
+
 }
+  
