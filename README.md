@@ -6,6 +6,5 @@ For FrontEnd I used Visual Studio Code IDE and for BackEnd Intellij idea.
 
 ![image](https://user-images.githubusercontent.com/81489104/175814660-a3f5b62e-9dc9-44ca-81bb-88b8453c34d5.png)
 
-![image](https://user-images.githubusercontent.com/81489104/175783845-e61c6eb5-e34f-47f1-8049-00cfeae8166c.png)
 ![image](https://user-images.githubusercontent.com/81489104/175783851-6b04c921-22d3-4767-a544-029a1639311e.png)
 
