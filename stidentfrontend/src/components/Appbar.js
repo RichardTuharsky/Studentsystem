@@ -16,7 +16,7 @@ export default function Appbar() {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" color="inherit" component="div">
-            Spring boot
+            Welcome
           </Typography>
         </Toolbar>
       </AppBar>
